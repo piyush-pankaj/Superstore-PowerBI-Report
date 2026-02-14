@@ -1,4 +1,4 @@
-# 📊 Olist E-Commerce Business Intelligence Dashboard (Power BI)
+# 📊 Olist E-Commerce Business Intelligence Dashboard
 
 ## 📌 Project Overview
 
